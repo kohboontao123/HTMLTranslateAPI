@@ -43,3 +43,7 @@ document.getElementById("translateButton").addEventListener("click", function() 
 
 Make sure that the `setLanguage` function is defined elsewhere in your code, and it correctly handles changing the language based on the provided language code.
 
+
+## Reference
+
+[How TO - Google Translate](https://www.w3schools.com/howto/howto_google_translate.asp).
