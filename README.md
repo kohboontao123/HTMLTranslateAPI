@@ -12,7 +12,7 @@ Seamlessly integrate API into your applications for instant, accurate translatio
 ## Installation
 
   1.   Download the file
-  2.   Copy the file 'tranlate.php' in to the file
+  2.   Copy 'tranlate.php' in to the file
   3.  include the file with code
 ```bash
     <?php 
