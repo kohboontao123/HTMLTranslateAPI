@@ -46,4 +46,4 @@ Make sure that the `setLanguage` function is defined elsewhere in your code, and
 
 ## Reference
 
-[How TO - Google Translate](https://www.w3schools.com/howto/howto_google_translate.asp).
+[How TO - Google Translate](https://www.w3schools.com/howto/howto_google_translate.asp)
