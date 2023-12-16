@@ -1,5 +1,5 @@
 
-# Tranlate Api in Javascript
+# Translate Api in Javascript
 
 Seamlessly integrate API into your applications for instant, accurate translations across a variety of languages. Utilizing cutting-edge natural language processing, API empowers developers to enhance global communication, enabling users to effortlessly navigate and understand content in their preferred language. 
 
